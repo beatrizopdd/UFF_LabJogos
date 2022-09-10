@@ -1,6 +1,6 @@
-#Ordem de leitura
+# Ordem de leitura
 
-:potted-plant: Você pode ignorar completamente esse guia e só olhar o código fonte, mas se você realmente quiser entender a mecânica dessa BENÇÃO chamada pplay e não ser carregado no trabalho de final de semestre...
+Você pode ignorar completamente esse guia e só olhar o código fonte, mas se você realmente quiser entender a mecânica dessa BENÇÃO chamada pplay e não ser carregado no trabalho de final de semestre...
 
 ### :boom: criando-janela.py
 
@@ -18,7 +18,8 @@ Nesse arquivo eu crio uma versão pobre e com bug* do pong. Você controla um sk
 ### :bomb: sky-jump.py
 
 No processo de ser um plágio descarado do joguinho do pou. 
-(10/09/22) Fiz a física do boneco
+
+- (10/09/22) Fiz a física do boneco
 
 
 
