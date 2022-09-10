@@ -10,10 +10,11 @@ janela.set_background_color((255,255,255))
 
 controle = janela.get_keyboard()
 
-bola = Sprite("bola.png",1)
+bola = Sprite("png/bola.png",1)
 bola.x = janela.width / 2 - bola.width / 2
 bola.y = janela.height / 4 - bola.height / 2
-skate = Sprite("skate.png",1)
+
+skate = Sprite("png/skate.png",1)
 skate.x = janela.width / 2 - skate.width / 2
 skate.y = janela.height - skate.height - 10
 
@@ -60,7 +61,8 @@ while True:
 		acertos += 1
 
 	janela.set_background_color((255,255,255))
-	#se o texto vier antes da atualização do fundo ele não aaprece
+
+	#se o texto vier antes da atualização do fundo ele não aparece
 	janela.draw_text("{} acertos".format(acertos), 50, 50, size=20, color=(0,0,0), font_name="Arial", bold=False, italic=False)
 	janela.draw_text("{} erros".format(erros), 50, 85, size=20, color=(0,0,0), font_name="Arial", bold=False, italic=False)
 

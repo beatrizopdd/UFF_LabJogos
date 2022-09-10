@@ -10,7 +10,7 @@ janela.set_background_color((210,210,210))
 
 controle = janela.get_keyboard()
 
-indy = Sprite("indy.png", 8)
+indy = Sprite("png/indy.png", 8)
 indy.x = janela.width / 2 - indy.width / 2
 indy.y = janela.width - indy.width / 2 - 50
 
@@ -20,7 +20,6 @@ indy.set_total_duration(1600)
 
 velX = 1
 velY = 1
-
 
 while True:
 
