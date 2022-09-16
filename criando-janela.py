@@ -11,5 +11,5 @@ janela.set_background_color((0,128,0))
 
 while True:
 
-    #desenha a janela
+    #swap de buffers (sei lá só sei que tava no kahoot)
     janela.update()

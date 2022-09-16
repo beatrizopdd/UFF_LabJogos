@@ -1,9 +1,8 @@
 from PPlay.window import*
 from PPlay.sprite import*
 from PPlay.animation import*
-from PPlay.collision import*
 
-janela = Window(800,600)
+janela = Window(600,600)
 janela.set_title("Bolinha")
 janela.set_background_color((210,210,210))
 
@@ -14,9 +13,9 @@ bola = Sprite("png/bola.png",1)
 bola.x = janela.width / 2 - bola.width / 2
 bola.y = janela.height / 2 - bola.height / 2
 
-#valores que representam de quantos em quantos pixels o objeto se locomove
-velX = 1.5
-velY = 1.5
+#valores que representam de quantos em quantos "pixels por loop" o objeto se locomove
+velX = 2
+velY = 2
 
 while True:
 	

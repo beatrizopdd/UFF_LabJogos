@@ -12,7 +12,7 @@ controle = janela.get_keyboard()
 
 indy = Sprite("png/indy.png", 8)
 indy.x = janela.width / 2 - indy.width / 2
-indy.y = janela.width - indy.width / 2 - 50
+indy.y = janela.height - indy.height - 25
 
 #importante pra que a sprite mude de frame parte 1
 indy.set_sequence(0,8)

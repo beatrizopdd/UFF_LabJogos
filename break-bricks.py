@@ -4,7 +4,7 @@ from PPlay.animation import*
 from PPlay.collision import*
 from PPlay.keyboard import*
 
-janela = Window(800,600)
+janela = Window(500,500)
 janela.set_title("Break Bricks")
 janela.set_background_color((255,255,255))
 
@@ -14,12 +14,13 @@ bola = Sprite("png/bola.png",1)
 bola.x = janela.width / 2 - bola.width / 2
 bola.y = janela.height / 4 - bola.height / 2
 
+bvelX = 4.5
+bvelY = 4.5
+
 skate = Sprite("png/skate.png",1)
 skate.x = janela.width / 2 - skate.width / 2
 skate.y = janela.height - skate.height - 10
 
-bvelX = 4.5
-bvelY = 4.5
 svelX = 5
 svelY = 5
 
