@@ -68,12 +68,12 @@ while True:
 		
         #define a pontuação do jogador 
         if (bola.x + bola.width >= janela.width):
-                direita += 1
+                esquerda += 1
                 bX *= -1
                 bola.x = janela.width / 2 - bola.width / 2
                 bola.y = janela.height / 2 - bola.height / 2
         if (bola.x <= 0):
-                esquerda += 1
+                direita += 1
                 bX *= -1
                 bola.x = janela.width / 2 - bola.width / 2
                 bola.y = janela.height / 2 - bola.height / 2
