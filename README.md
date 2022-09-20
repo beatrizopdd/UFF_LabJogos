@@ -37,4 +37,4 @@ Um pong de dois jogadores. PORÉM consegui arrumar o bug do pad possuído.
 | :boom: | exercícios de aula |
 | :bomb: | fiz por conta própria |
 
-*bug: tem um momento do jogo que a bolinha encosta no pad(skate) bem na quina e ela fica presa nele até chegar do outro lado. se você reparar no contador de acertos ele vai ~literalmente~ de 0 a 100 muito rápido. (ARRUMEI)
+* *RESOLVIDO* bug: tem um momento do jogo que a bolinha encosta no pad(skate) bem na quina e ela fica presa nele até chegar do outro lado. se você reparar no contador de acertos ele vai ~literalmente~ de 0 a 100 muito rápido.
