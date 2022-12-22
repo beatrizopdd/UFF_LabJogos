@@ -3,6 +3,7 @@
 - `(Aula 2) criando-janela.py:` Aqui você aprende o básico do básico: criar-janela-verde.aula2;
 
 - `:bomb: texto-na-janela.py:` Como colocar um texto na janela (sério não precisava de legenda);
+
 OBS.: Aparentemente esse querido arrasa com o fps do seu jogo então use com moderação.
 
 - `:bomb: criando-boneco.py:` Criando e posicionando um boneco na tela;
@@ -15,6 +16,7 @@ OBS.: Aparentemente esse querido arrasa com o fps do seu jogo então use com mod
 <h2 align="center"> :ping_pong: PONG :ping_pong: </h2>
 
 - `(Aula 3) fisica-da-bolinha.py:` Como criar uma bolinha que anda sozinha pela janela e respeita os limites da moldura;
+
 OBS.: Vou começar a usar Sprite("png/bola.png",1) e esse 'png/' é a pasta que armazena a foto. Quer menos complicação? Deixa o png no mesmo lugar que o arquivo.
 
 - `(Aula 4) fisica-da-bolinha-2.py:` Vou ser bem honesta: não faço ideia do por quê desse troço de delta_time mas consegui fazer e é isso que importa;
@@ -45,6 +47,7 @@ Cada exercício de aula ta num arquivo separado como um jogo independente, PORÉ
 - `(Aula 12) ranking:` Cria uma nova horda de aliens quando a antiga acaba e, caso gameover, pede o nome do usuário para salvar a pontuação;
 
 - `(Aula 13) exercício surpresa:` Vai ter um infiltrado no meio da horda que aguenta 3 tiros até voltar a ser um alien normal. A sprite tem que ser diferente.
+
 OBS.: O jogo ta cheio de bug? Claro que sim, mas o jeito que eu consegui diferenciar o boss dos aliens normais pra mim foi genial.
 
 #### atalho.py (linha)
