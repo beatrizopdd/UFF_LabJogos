@@ -1,4 +1,4 @@
-<h2 align="center"> JANELA </h2>
+<h2 align="center"> :desktop_computer: JANELA :desktop_computer: </h2>
 
 - `(Aula 2) criando-janela.py:` Aqui você aprende o básico do básico: criar-janela-verde.aula2;
 
@@ -12,7 +12,7 @@ OBS.: Aparentemente esse querido arrasa com o fps do seu jogo então use com mod
 - `:bomb: movendo-boneco-mouse.py:` Movimentando o boneco pela tela com o mouse e respeitando os limites da moldura;
 
 
-<h2 align="center"> PONG </h2>
+<h2 align="center"> :ping_pong: PONG :ping_pong: </h2>
 
 - `(Aula 3) fisica-da-bolinha.py:` Como criar uma bolinha que anda sozinha pela janela e respeita os limites da moldura;
 OBS.: Vou começar a usar Sprite("png/bola.png",1) e esse 'png/' é a pasta que armazena a foto. Quer menos complicação? Deixa o png no mesmo lugar que o arquivo.
@@ -28,7 +28,7 @@ OBS.: Vou começar a usar Sprite("png/bola.png",1) e esse 'png/' é a pasta que 
 Cada exercício de aula ta num arquivo separado como um jogo independente, PORÉM eu fiz um arquivo com menu e etc, dividido em módulos etc, pra rodar é só abrir o "menu.py".
 
 
-<h2 align="center"> SPACE-INVADERS </h2>
+<h2 align="center"> :space_invader: SPACE-INVADERS :space_invader: </h2>
 
 - `(Aula 6) menu.py:` Um menu com botões clicáveis de JOGAR, DIFICULDADE, RANKING, SAIR e implementação do "esc pra sair";
 
@@ -80,13 +80,13 @@ OBS: Uma turma tinha que ordenar as 5  melhores pontuações e a outra só preci
 
 Ta tudo comentadinho, se vira aí. 
 
-## Se você encontrar um computador com pygame, meus parabéns!
+## :radioactive: Se você encontrar um computador com pygame, meus parabéns!
 
 Mas você não vai.
 
-- `INSTALAR PYGAME`: python3 -m pip install -U pygame --user
-- `PPLAY`: http://www2.ic.uff.br/pplay/download/
-- `RODAR O JOGO`: Abre a pasta do jogo -> Botão direito "abrir terminal aqui" -> Digita "python3 nome-do-arquivo.py"
+- `INSTALAR PYGAME:` python3 -m pip install -U pygame --user
+- `PPLAY:` http://www2.ic.uff.br/pplay/download/
+- `RODAR O JOGO:` Abre a pasta do jogo -> Botão direito "abrir terminal aqui" -> Digita "python3 nome-do-arquivo.py"
 
 
 
