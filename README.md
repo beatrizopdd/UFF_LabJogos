@@ -2,15 +2,15 @@
 
 - `(Aula 2) criando-janela.py:` Aqui você aprende o básico do básico: criar-janela-verde.aula2;
 
-- :bomb: `texto-na-janela.py:` Como colocar um texto na janela (sério não precisava de legenda);
+- `texto-na-janela.py:` Como colocar um texto na janela (sério não precisava de legenda);
 
-OBS.: Aparentemente esse querido arrasa com o fps do seu jogo então use com moderação.
+OBS.: Aparentemente esse querido esse draw_text arrasa com o fps do seu jogo, então use com moderação.
 
-- `:bomb: criando-boneco.py:` Criando e posicionando um boneco na tela;
+- `criando-boneco.py:` Criando e posicionando um boneco na tela;
 
-- `:bomb: movendo-boneco-teclado.py:` Movimentando o boneco pela tela com o teclado e respeitando os limites da moldura;
+- `movendo-boneco-teclado.py:` Movimentando o boneco pela tela com o teclado e respeitando os limites da moldura;
 
-- `:bomb: movendo-boneco-mouse.py:` Movimentando o boneco pela tela com o mouse e respeitando os limites da moldura;
+- `movendo-boneco-mouse.py:` Movimentando o boneco pela tela com o mouse e respeitando os limites da moldura;
 
 
 <h2 align="center"> :ping_pong: PONG :ping_pong: </h2>
