@@ -2,7 +2,7 @@
 
 - `(Aula 2) criando-janela.py:` Aqui você aprende o básico do básico: criar-janela-verde.aula2;
 
-- `:bomb: texto-na-janela.py:` Como colocar um texto na janela (sério não precisava de legenda);
+- :bomb: `texto-na-janela.py:` Como colocar um texto na janela (sério não precisava de legenda);
 
 OBS.: Aparentemente esse querido arrasa com o fps do seu jogo então use com moderação.
 
