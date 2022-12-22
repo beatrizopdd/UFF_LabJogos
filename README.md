@@ -80,7 +80,7 @@ OBS: Uma turma tinha que ordenar as 5  melhores pontuações e a outra só preci
 
 Ta tudo comentadinho, se vira aí. 
 
-## :radioactive: Se você encontrar um computador com pygame, meus parabéns!
+## :construction: Se você encontrar um computador com pygame, meus parabéns!
 
 Mas você não vai.
 
